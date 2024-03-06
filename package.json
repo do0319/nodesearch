@@ -11,18 +11,14 @@
     "framework",
     "back-end"
   ],
-  "author": "",
+  "author": "do309",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
-    "co": "^4.6.0",
-    "cors": "^2.8.5",
-    "crypto": "^1.0.1",
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "moment": "^2.30.1",
     "mongoose": "^8.1.1",
-    "multer": "^1.4.5-lts.1",
     "only": "^0.0.2"
   }
 }
